@@ -1,0 +1,202 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.image{
+    width: 100%;
+    background-image: url(Star6_19_092923_DSC_8052_3_desktop_e1c637e394.jpg);
+    height: 707px;
+    background-position: center;
+    background-size: cover;
+
+}
+
+svg{
+    fill:white;
+    padding-top: 35px;
+    padding-left: 70px;
+}
+
+.top{
+    width: 100%;
+    height: 100px;
+    float: left;
+}
+
+.fis{
+    width: 20%;
+    height: 100px;
+    float: left;
+}
+.fis img{
+     width: 230px;
+     padding-top:25px ;
+     padding-left: 70px;
+     
+}
+.sec{
+    width: 65%;
+    height: 100px;
+    float: left;
+    text-align: center;
+    padding-left: 10px;
+    padding-top: 50px;
+}
+.sec a{
+    color: white;
+    font-size: 15px;
+    padding-right: 10px;
+    font-weight: bold;
+    font-family: 'D-DIN-Bold', Arial, Verdana, sans-serif;
+   
+}
+.ter{
+    width: 10%;
+    height: 100px;
+    float: right;
+    padding-top: 45px;
+}
+.ter a{
+    font-size: center;
+    color: white;
+    padding-right: 20px;
+}
+.ter i{
+    font-size: 20px;
+    color: white;
+}
+.imgtx{
+    margin-top: 400px;
+    margin-left: 150px;
+}
+.imgtx p{
+    color: white;
+    font-family: 'D-DIN-Bold', Arial, Verdana, sans-serif;
+    font-size: 20px;
+}
+.imgtx h1{
+    color: white;
+    font-family: 'D-DIN-Bold', Arial, Verdana, sans-serif;
+    padding-top: 20px;
+    font-size: 50px;
+}
+.botom{
+    height: 40px;
+    width: 150px;
+    background: none;
+    border: 1px solid white;
+    color:white;
+    margin-top: 20px;
+
+    
+}
+.imgtx1{
+    width: 100%;
+    background-image: url(Starlink_G7_3_OS_56_5196_Desktop_501dcd8c6a.jpg);
+    height: 707px;
+    background-position: center;
+    background-size: cover;
+}
+.img2{
+    padding-top: 400px;
+    padding-left: 150px;
+}
+.img2 p{
+    color: white;
+    font-family: 'D-DIN-Bold', Arial, Verdana, sans-serif;
+    font-size: 20px;
+}
+.img2 h1{
+    color: white;
+    font-family: 'D-DIN-Bold', Arial, Verdana, sans-serif;
+    padding-top: 20px;
+    font-size: 50px;
+}
+.bot{
+    height: 40px;
+    width: 150px;
+    background: none;
+    border: 1px solid white;
+    color:white;
+    margin-top: 20px;
+}
+.imgtx2{
+    width: 100%;
+    background-image: url(Crew_6_Desktop_9857f5c2f0.jpg);
+    height: 707px;
+    background-position: center;
+    background-size: cover;
+
+
+}
+.img2{
+    padding-top: 400px;
+    padding-left: 150px;
+}
+.img2 p{
+    color: white;
+    font-family: 'D-DIN-Bold', Arial, Verdana, sans-serif;
+    font-size: 20px;
+}
+.img2 h1{
+    color: white;
+    font-family: 'D-DIN-Bold', Arial, Verdana, sans-serif;
+    padding-top: 20px;
+    font-size: 50px;
+}
+.bot2{
+    height: 40px;
+    width: 150px;
+    background: none;
+    border: 1px solid white;
+    color:white;
+    margin-top: 20px;
+
+    
+}
+.imgtx3{
+    width: 100%;
+    background-image: url(STARSHIP_Testflight_DESKTOP_2b3bea613a.jpg);
+    height: 707px;
+    background-position: center;
+    background-size: cover;
+
+
+}
+.fot{
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    display: flex;
+    padding-left: 600px;
+    padding-top: 40px;
+}
+.fot p{
+    color:aliceblue;
+    font-family: 'D-DIN-Bold', Arial, Verdana, sans-serif;
+    font-size: 10px;
+    padding-top: 2px;
+    padding-right: 20px;
+    
+}  
+.fot a{
+    color: white;
+    font-size: 13px;
+    padding-right: 10px;
+    
+    text-decoration: none;
+    padding-left: 10px;
+    font-family: 'D-DIN-Bold', Arial, Verdana, sans-serif;
+}
+.sec a:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+button:hover{
+    background-color: white;
+    color: black;
+    border-color: black;
+    cursor: pointer;
+}
